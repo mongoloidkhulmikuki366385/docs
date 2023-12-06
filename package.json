@@ -153,7 +153,7 @@
     "nodemon": "^2.0.4",
     "npm-merge-driver-install": "^2.0.0",
     "object-hash": "^2.0.1",
-    "pa11y-ci": "^2.4.0",
+    "pa11y-ci": "^3.0.0",
     "prettier": "^2.1.2",
     "process": "^0.11.10",
     "puppeteer": "^5.5.0",

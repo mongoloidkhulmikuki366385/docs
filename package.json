@@ -122,7 +122,7 @@
     "csv-parse": "^4.8.8",
     "csv-parser": "^2.3.3",
     "dedent": "^0.7.0",
-    "del": "^4.1.1",
+    "del": "^8.0.0",
     "dependency-check": "^4.1.0",
     "domwaiter": "^1.1.0",
     "eslint": "^7.13.0",

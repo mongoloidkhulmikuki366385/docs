@@ -156,7 +156,7 @@
     "pa11y-ci": "^2.4.0",
     "prettier": "^2.1.2",
     "process": "^0.11.10",
-    "puppeteer": "^5.5.0",
+    "puppeteer": "^22.8.2",
     "replace": "^1.2.0",
     "robots-parser": "^2.1.1",
     "start-server-and-test": "^1.12.0",
